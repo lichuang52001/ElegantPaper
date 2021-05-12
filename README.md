@@ -1,3 +1,16 @@
+# 修改
+
+<!-- Author: Chuang Li -->
+<!-- Email: lichuang52001@gmail.com -->
+
+- 使用前需要安装好字体，不管是在 Windows 系统还是 Mac 系统上。
+- 鉴于 Windows 系统和 Mac 系统上的一些字体并不通用，修改 ``.cls`` 文件中的字体设置。
+  - Windows 系统下，导言区设置为：
+    ``\documentclass[lang=cn, 12pt, a4paper, cite=super, chinesefont=Win-default]{elegantpaper}`` ;
+  - Mac 系统下，导言区设置为：
+    ``\documentclass[lang=cn, 12pt, a4paper, cite=super, chinesefont=Mac-default]{elegantpaper}`` ;
+  - 如果需要自定义字体，前往 ``.cls`` 文件修改 Line 110~138 行。
+
 <!-- Author: Dongsheng Deng -->
 <!-- Email: ddswhu@outlook.com -->
 
