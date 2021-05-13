@@ -3,6 +3,12 @@
 <!-- Author: Chuang Li -->
 <!-- Email: lichuang52001@gmail.com -->
 
+## May 13, 2021
+
+- 修改超链接颜色，从 ``winered`` 改为 ``blue``。
+
+## May 10, 2021
+
 - 使用前需要安装好字体，不管是在 Windows 系统还是 Mac 系统上。
 - 鉴于 Windows 系统和 Mac 系统上的一些字体并不通用，修改 ``.cls`` 文件中的字体设置。
   - Windows 系统下，导言区设置为：

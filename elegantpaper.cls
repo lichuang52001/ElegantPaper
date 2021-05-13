@@ -45,10 +45,14 @@
 \hypersetup{
 	pdfborder={0 0 0},
 	colorlinks=true,
-	linkcolor={winered},
-	urlcolor={winered},
-	filecolor={winered},
-	citecolor={winered},
+%	linkcolor={winered},
+%	urlcolor={winered},
+%	filecolor={winered},
+%	citecolor={winered},
+    linkcolor={blue},
+    urlcolor={blue},
+    filecolor={blue},
+    citecolor={blue},
 	linktoc=all,
 }
 % settings for the hyperref and geometry
