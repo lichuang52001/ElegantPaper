@@ -49,10 +49,10 @@
 %	urlcolor={winered},
 %	filecolor={winered},
 %	citecolor={winered},
-        linkcolor={blue},
-        urlcolor={blue},
-        filecolor={blue},
-        citecolor={blue},
+    linkcolor={blue},
+    urlcolor={blue},
+    filecolor={blue},
+    citecolor={blue},
 	linktoc=all,
 }
 % settings for the hyperref and geometry
